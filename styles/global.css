@@ -1,3 +1,5 @@
+/*   -= Сброс стандартных стилей браузера =-   */
+
 *,
 *::before,
 *::after {
@@ -35,4 +37,36 @@ img {
 
 button {
   font: inherit;
+}
+
+
+/*   -= Разметка размеров и отступов секций =-   */
+
+body {
+    background: #fff;
+}
+
+.header {
+    height: 293px;
+}
+
+.cover {
+    height: 757px;
+    margin-bottom: 180px;
+}
+
+.overlay {
+    height: 100%;
+}
+
+.lots {
+    margin-bottom: 120px;
+}
+
+.about {
+    margin-bottom: 180px;
+}
+
+.footer {
+    height: 180px;
 }

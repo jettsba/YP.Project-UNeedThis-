@@ -43,10 +43,6 @@ button {
 
 /*   -= Разметка размеров и отступов секций =-   */
 
-body {
-    background: #fff;
-}
-
 .header {
     height: 293px;
 }
